@@ -22,6 +22,7 @@ BCA Third Year
   
 ## GitHub
 https://github.com/rijinpunthala007-dot
-
+## Portfolio
+https://3-d-portfolio-roan-iota.vercel.app/
 ## What I Want To Learn
 My goal is to advance from AI-assisted development into professional software engineering. I am focused on mastering computer science fundamentals, specifically Data Structures and Algorithms (DSA), scalable System Design, and code optimization. I look forward to collaborating with the SB Tech Team to apply these engineering principles to our collaborative projects.
